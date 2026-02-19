@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://MopicMP.github.io/better-flask-docs/index.html</loc><priority>1.0</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/flask.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/flask-route.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/flask-run.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/request.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/request-args.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/request-form.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/request-json.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/request-files.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/request-method.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/render-template.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/redirect.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/url-for.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/abort.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/jsonify.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/make-response.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/session.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/g.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/current-app.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/blueprint.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/send-file.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/send-from-directory.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/flash.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-flask-docs/get-flashed-messages.html</loc><priority>0.8</priority></url>
+</urlset>
